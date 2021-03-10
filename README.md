@@ -1,6 +1,6 @@
-# Project 3 - Twoosh
+# Project 3 - Twitter
 
-Twoosh is a basic twitter app to read your tweets.
+This is a basic twitter app to read your tweets.
 
 Time spent: 4 hours spent in total
 
